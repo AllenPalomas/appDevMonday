@@ -8,15 +8,23 @@ public class week5 {
 
         Lanzar.display();
 
-
         Lluz.display();
-
 
         Walo.display();
 
         Francisco.display();
 
+<<<<<<< HEAD
         Palomas.display();
+=======
+        Plena.display();
+
+
+        AlimMaria.display();
+
+        Pergis.display();
+
+>>>>>>> upstream/main
 
 
 
